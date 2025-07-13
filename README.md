@@ -1,4 +1,5 @@
-# 📄 Vite React TypeScript Starter
+# 📄 EZ-project
+
 
 A modern web application starter template using **Vite**, **React**, **TypeScript**, and **Tailwind CSS**. This project provides a fast, opinionated setup for building performant frontend apps with clean configuration and common tooling.
 
