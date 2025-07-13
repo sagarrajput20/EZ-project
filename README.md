@@ -29,5 +29,5 @@ A modern web application starter template using **Vite**, **React**, **TypeScrip
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sagarrajput20/vite-react-typescript-starter.git
-   cd vite-react-typescript-starter
+   git clone https://github.com/sagarrajput20/EZ-project.git
+   cd EZ-project
